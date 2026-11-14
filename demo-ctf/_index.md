@@ -1,4 +1,4 @@
 +++
-title = "demo-writeup"
+title = "demo-ctf"
 draft = false
 +++
