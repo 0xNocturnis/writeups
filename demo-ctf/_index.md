@@ -1,5 +1,4 @@
 +++
-title = "demo-ctf"
-layout = "writeups"
+title = "demo-writeup"
 draft = false
 +++
